@@ -1,0 +1,7 @@
+{
+    "vsicons.presets.angular": true,
+    "files.exclude": {
+        "node_modules": true,
+        ".vscode": true
+    }
+}
